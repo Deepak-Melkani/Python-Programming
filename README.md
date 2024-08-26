@@ -1,2 +1,2 @@
 # Python Programming
- Learnings of python
+ This contains all the learnings of python programming
